@@ -1,9 +1,9 @@
+[https://github.com/vanvught/rpidmx512-zip/issues/5#issuecomment-536272513](https://github.com/vanvught/rpidmx512-zip/issues/5#issuecomment-536272513)
+
 *Instructions*: Copy all the files from the zip-file onto an empty FAT formatted SDCard. The SDCard can be as smallest as 2GB.
 
 Raspberry Pi kernels with Broadcom bootloader:
 
-* **Ethernet**
-  * Art-Net 3 DMX Node / **Pixel (WS28xx/SK6812/AP102/UCSx903) controller** {[SDCard](https://github.com/vanvught/rpidmx512-zip/blob/master/rpi_circle_artnet_dmx.zip?raw=true)}
 * **RDM**
   * RDM Controller with USB [Compatible with **Enttec USB Pro protocol**] {[SDCard](https://github.com/vanvught/rpidmx512-zip/blob/master/rpi_dmx_usb_pro.zip?raw=true)}
 * **Wifi**
